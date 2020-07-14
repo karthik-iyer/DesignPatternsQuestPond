@@ -1,0 +1,12 @@
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.deps.json
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.runtimeconfig.json
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.runtimeconfig.dev.json
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.pdb
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.csprojAssemblyReference.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.AssemblyInfoInputs.cache
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.AssemblyInfo.cs
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.dll
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.pdb
+/Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.genruntimeconfig.cache
