@@ -1,0 +1,9 @@
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/bin/Debug/netstandard2.0/InterfaceCustomer.deps.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/bin/Debug/netstandard2.0/InterfaceCustomer.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/bin/Debug/netstandard2.0/InterfaceCustomer.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.AssemblyInfo.cs
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/obj/Debug/netstandard2.0/InterfaceCustomer.csprojAssemblyReference.cache

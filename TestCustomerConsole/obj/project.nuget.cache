@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJ9N6UPXHzeTPYFZxwL53BWoyDQW4cGst3m2hFF7wKtetlOmdNL/14+O5QT/HN9warpBcR/iAJ7D4u7V0dD9ZA==",
+  "success": true,
+  "projectFilePath": "/Users/karthikiyer/Sites/DesignPatternsQuestPond/TestCustomerConsole/TestCustomerConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthikiyer/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/karthikiyer/.nuget/packages/unity/5.11.7/unity.5.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

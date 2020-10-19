@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLXBPvCiaAHgsXE5lvvedGhgLW9Zi2n5A1pXwBljA/qg9OxwjQ8gf/jdeU6uyPXbsoJmzJmNY4zPylfeqOPe9w==",
+  "success": true,
+  "projectFilePath": "/Users/karthikiyer/Sites/DesignPatternsQuestPond/InterfaceCustomer/InterfaceCustomer.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthikiyer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/karthikiyer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\TestCustomerConsole.csproj.nuget.g.targets" />
+    <Content Include="obj\TestCustomerConsole.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.nuget.cache" />
+    <Content Include="obj\TestCustomerConsole.csproj.nuget.g.props" />
+    <Content Include="obj\Debug\netcoreapp3.1\TestCustomerConsole.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\netcoreapp3.1\TestCustomerConsole.assets.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CustomerFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.11.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InterfaceCustomer\InterfaceCustomer.csproj" />
+    <ProjectReference Include="..\MiddleLayer\MiddleLayer.csproj" />
+    <ProjectReference Include="..\ValidationAlgorithms\ValidationAlgorithms.csproj" />
+  </ItemGroup>
+</Project>

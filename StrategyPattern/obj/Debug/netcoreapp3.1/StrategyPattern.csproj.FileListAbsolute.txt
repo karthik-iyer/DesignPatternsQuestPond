@@ -22,3 +22,15 @@
 /Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.dll
 /Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.pdb
 /Users/karthik.iyer/OneDrive_Slalom/NET_Training/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.genruntimeconfig.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.deps.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.dev.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfo.cs
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.genruntimeconfig.cache

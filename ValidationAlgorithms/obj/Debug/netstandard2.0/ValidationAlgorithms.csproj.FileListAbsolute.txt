@@ -1,0 +1,12 @@
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.AssemblyInfo.cs
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/bin/Debug/netstandard2.0/ValidationAlgorithms.deps.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/bin/Debug/netstandard2.0/ValidationAlgorithms.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/bin/Debug/netstandard2.0/ValidationAlgorithms.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/bin/Debug/netstandard2.0/InterfaceCustomer.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/bin/Debug/netstandard2.0/InterfaceCustomer.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.csproj.CopyComplete
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/ValidationAlgorithms/obj/Debug/netstandard2.0/ValidationAlgorithms.pdb

@@ -1,0 +1,15 @@
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/bin/Debug/netstandard2.0/CustomerProjectPhase1.deps.json
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/bin/Debug/netstandard2.0/CustomerProjectPhase1.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/bin/Debug/netstandard2.0/CustomerProjectPhase1.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.AssemblyInfo.cs
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/CustomerProjectPhase1/obj/Debug/netstandard2.0/CustomerProjectPhase1.pdb
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.AssemblyInfo.cs
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.dll
+/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/obj/Debug/netstandard2.0/CustomerProjectPhase1.pdb

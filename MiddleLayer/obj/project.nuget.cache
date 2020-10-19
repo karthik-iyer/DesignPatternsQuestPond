@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7GIMd8nhsl7orwZhFQo+yDF5F6tdOuCCYhIwkXaoOdlga76iMK8LPm4iZTpVvkleK1iwd+ipJIZahO7qVZK2Q==",
+  "success": true,
+  "projectFilePath": "/Users/karthikiyer/Sites/DesignPatternsQuestPond/MiddleLayer/MiddleLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthikiyer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/karthikiyer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
